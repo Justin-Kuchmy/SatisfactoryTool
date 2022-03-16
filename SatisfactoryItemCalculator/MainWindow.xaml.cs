@@ -14,7 +14,6 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using SatisfactoryCodeBehind;
 using System.Text.RegularExpressions;
-using System.Collections.Generic;
 
 namespace SatisfactoryItemCalculator
 {
@@ -29,6 +28,8 @@ namespace SatisfactoryItemCalculator
         public DataLoader data;
         public string itemString = "";
         public double itemsPerMin = 0.0;
+        public string inputlist = "";
+
         public Dictionary<string, double> currDict = new Dictionary<string, double>(0);
         public Dictionary<string, double> ListOfAdded = new Dictionary<string, double>(0);
 
@@ -79,9 +80,10 @@ namespace SatisfactoryItemCalculator
                 ListOfAdded[itemString] = tempItemsPerMin;
             }
 
-            string inputlist = "";
+            
             var count = ListOfAdded.Count;
             int index = 0;
+            inputlist = "";
             //formatting the first string in the list 
             foreach (var item in ListOfAdded)
             {
@@ -131,6 +133,8 @@ namespace SatisfactoryItemCalculator
             ItemList.Items.Clear();
             currDict = new Dictionary<string, double>();
             ItemsPerMin.Text = "0";
+            inputlist = "";
+            ListOfAdded.Clear();
         }
 
 

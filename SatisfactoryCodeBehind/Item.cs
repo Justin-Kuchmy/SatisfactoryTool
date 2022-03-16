@@ -19,8 +19,6 @@ namespace SatisfactoryCodeBehind
         public List<KeyValuePair<string, int>> ingredients { get; set; }
         public List<KeyValuePair<string, int>> product { get; set; }
 
-        public List<int> materialCountList = new List<int>();
-
         public Dictionary<string, double> RawMaterialsList = new Dictionary<string, double>();
 
 
@@ -43,17 +41,9 @@ namespace SatisfactoryCodeBehind
             {
                 if (this.name == masterList.ElementAt(i).name)
                 {
-                    if (this.name == "nuclear pasta")
-                    {
-                        Console.WriteLine();
-                    }
 
                     for (int j = 0; j < masterList.ElementAt(i).ingredients.Count; j++)
                     {
-                        if (masterList.ElementAt(i).ingredients.ElementAt(j).Key == "aluminum ingot")
-                        {
-                            //Console.WriteLine();
-                        }
 
                         if (ResourceList.ElementAt(0).resources.Exists((x) => x.key_name == masterList.ElementAt(i).ingredients.ElementAt(j).Key))
                         {
@@ -79,31 +69,15 @@ namespace SatisfactoryCodeBehind
 
                                 foreach (var item3 in masterList.ElementAt(idx).RawMaterialsList)
                                 {
-                                    if (item3.Key == "raw quartz")
-                                    {
 
-                                    }
-
-                                    if (i == 45 && j == 1 && idx == 42)
-                                    {
-                                        Console.WriteLine();
-                                    }
 
                                     if (!this.RawMaterialsList.ContainsKey(item3.Key))
                                     {
                                         this.RawMaterialsList.Add(item3.Key, (item2.Value * item3.Value / returnAmount2.Value));
-                                        if (item3.Key == "raw quartz")
-                                        {
-                                            // Console.WriteLine($"RAW QUARTZ  {this.name} lower added {(item2.Value * item3.Value / returnAmount2.Value)}");
-                                        }
                                     }
                                     else
                                     {
                                         this.RawMaterialsList[item3.Key] += (item2.Value * item3.Value / returnAmount2.Value);
-                                        if (item3.Key == "raw quartz")
-                                        {
-                                            // Console.WriteLine($"RAW QUARTZ  {this.name} lower Increased by{(item2.Value * item3.Value / returnAmount2.Value)}");
-                                        }
                                     }
                                 }
                             }

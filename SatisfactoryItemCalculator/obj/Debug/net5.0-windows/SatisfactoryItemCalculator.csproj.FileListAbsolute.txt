@@ -1,7 +1,7 @@
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryCodeBehind.deps.json
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryCodeBehind.runtimeconfig.json
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryCodeBehind.runtimeconfig.dev.json
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryCodeBehind.exe
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator_MarkupCompile.cache
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator_MarkupCompile.lref
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryItemCalculator.exe
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryItemCalculator.deps.json
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryItemCalculator.runtimeconfig.json
@@ -18,10 +18,6 @@ C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCa
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryCodeBehind.dll
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\bin\Debug\net5.0-windows\SatisfactoryCodeBehind.pdb
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator.csproj.AssemblyReference.cache
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\MainWindow.g.cs
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\App.g.cs
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator_MarkupCompile.cache
-C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator_MarkupCompile.lref
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\MainWindow.baml
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator.g.resources
 C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryItemCalculator\obj\Debug\net5.0-windows\SatisfactoryItemCalculator.GeneratedMSBuildEditorConfig.editorconfig
