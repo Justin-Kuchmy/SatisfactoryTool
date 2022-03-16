@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zq9DqiX9TrOuI16DFIKhX/CSO6Mb2nPj8LCIimj3pcHujro3C1zMozHidhz3GYmzZt1q5HR+pmlkYGABDV0Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JustinKuchmy\\source\\repos\\SatisfactoryItemCalculator\\SatisfactoryItemCalculator\\SatisfactoryItemCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JustinKuchmy\\.nuget\\packages\\json\\1.0.1\\json.1.0.1.nupkg.sha512",
+    "C:\\Users\\JustinKuchmy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\JustinKuchmy\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512",
+    "C:\\Users\\JustinKuchmy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\JustinKuchmy\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\JustinKuchmy\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'JSON 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "JSON",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+{
+  "resources": [
+    {
+      "key_name": "iron ore",
+      "category": "mineral"
+    },
+    {
+      "key_name": "copper ore",
+      "category": "mineral"
+    },
+    {
+      "key_name": "coal",
+      "category": "mineral"
+    },
+    {
+      "key_name": "petroleum coke",
+      "category": "mineral"
+    },
+    {
+      "key_name": "compacted coal",
+      "category": "mineral"
+    },
+    {
+      "key_name": "limestone",
+      "category": "mineral"
+    },
+    {
+      "key_name": "caterium ore",
+      "category": "mineral"
+    },
+    {
+      "key_name": "sulfur",
+      "category": "mineral"
+    },
+    {
+      "key_name": "raw quartz",
+      "category": "mineral"
+    },
+    {
+      "key_name": "crude oil",
+      "category": "oil"
+    },
+    {
+      "key_name": "bauxite",
+      "category": "mineral"
+    },
+    {
+      "key_name": "water",
+      "category": "liquid"
+    },
+    {
+      "key_name": "uranium",
+      "category": "mineral"
+    },
+    {
+      "key_name": "nitrogen gas",
+      "category": "gas"
+    },
+    {
+      "key_name": "leaves",
+      "category": "nature"
+    },
+    {
+      "key_name": "wood",
+      "category": "nature"
+    },
+    {
+      "key_name": "alien carapace",
+      "category": "nature"
+    },
+    {
+      "key_name": "mycelia",
+      "category": "nature"
+    },
+    {
+      "key_name": "alien organs",
+      "category": "nature"
+    },
+    {
+      "key_name": "flower petals",
+      "category": "nature"
+    },
+    {
+      "key_name": "heavy residue",
+      "category": "by product"
+    },
+    {
+      "key_name": "polymer resin",
+      "category": "by product"
+    },
+    {
+      "key_name": "object scanner",
+      "category": "crafting"
+    },
+
+    {
+      "key_name": "uranium waste",
+      "category": "by product"
+    }
+  ]
+}
+]

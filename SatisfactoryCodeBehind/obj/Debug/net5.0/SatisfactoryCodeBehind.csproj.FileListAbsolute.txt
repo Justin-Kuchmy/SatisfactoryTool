@@ -1,0 +1,17 @@
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\SatisfactoryCodeBehind.exe
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\SatisfactoryCodeBehind.deps.json
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\SatisfactoryCodeBehind.runtimeconfig.json
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\SatisfactoryCodeBehind.runtimeconfig.dev.json
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\SatisfactoryCodeBehind.dll
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\ref\SatisfactoryCodeBehind.dll
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\SatisfactoryCodeBehind.pdb
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.AssemblyInfoInputs.cache
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.AssemblyInfo.cs
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.csproj.CoreCompileInputs.cache
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.csproj.CopyComplete
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.dll
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\ref\SatisfactoryCodeBehind.dll
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.pdb
+C:\Users\JustinKuchmy\source\repos\SatisfactoryItemCalculator\SatisfactoryCodeBehind\obj\Debug\net5.0\SatisfactoryCodeBehind.genruntimeconfig.cache
